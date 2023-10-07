@@ -1,8 +1,9 @@
 package main
 
 import (
-	"/Users/bdeng/Library/CloudStorage/OneDrive-Personal/coursera/golang-udemy/go-overview/helpers.go"
 	"log"
+
+	"helpers"
 )
 
 const numPool = 10

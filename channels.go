@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"helpers"
+	"github.com/robot010/udemy-golang/helpers"
 )
 
 const numPool = 10
